@@ -4,5 +4,19 @@
    "description": "A module which you can register some onupdate functions for already released versions for your app. Kind of like migrations in a database.",
    "main": "index.ts",
    "author": "tolgaberk",
-   "license": "MIT"
+   "license": "MIT",
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/tolgaberk/react-native-onupdate.git"
+   },
+   "keywords": [
+      "migration",
+      "update",
+      "react-native",
+      "onupdate"
+   ],
+   "bugs": {
+      "url": "https://github.com/tolgaberk/react-native-onupdate/issues"
+   },
+   "homepage": "https://github.com/tolgaberk/react-native-onupdate#readme"
 }
