@@ -36,7 +36,7 @@ const App = () => {
 
 # API
 
-| Property \| Method | DEFINITON | TYPE |
+| Property \| Method | DEFINITION | TYPE |
 | --- | --- | --- |
 | `migrations` | Migration functions to run | `Function[]` |
 | `migrate()` | Runs the migrations which have been never called | `function()` |
