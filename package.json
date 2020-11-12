@@ -1,6 +1,6 @@
 {
    "name": "react-native-onupdate",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "A module which you can register some onupdate functions for already released versions for your app. Kind of like migrations in a database.",
    "main": "index.ts",
    "author": "tolgaberk",
